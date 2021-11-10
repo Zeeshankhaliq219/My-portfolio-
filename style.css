@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Asul&family=Lobster&family=Oswald:wght@500&family=Roboto:ital,wght@0,300;1,400&family=Zen+Antique+Soft&family=Zen+Old+Mincho:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0px;
+}
+
+body {
+  background-color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+/* Start Header */
+.header_bg_color {
+  background-color: #8444df;
+  margin-top: 0px;
+  padding: 14px;
+}
+.logo {
+  color: white;
+  font-size: 27px;
+}
+.logo_header {
+  color: white !important;
+}
+.right_item {
+  margin-left: auto;
+  display: flex;
+  padding-right: 22px;
+  justify-content: space-between;
+}
+.right_item a {
+  color: white !important;
+}
+.toggle {
+  background-color: #9d69e5;
+  color: white;
+}
+.nav-link {
+  color: white;
+  padding: 12px;
+  border-radius: 15px;
+}
+.nav-link:link {
+  color: tomato !important;
+}
+.nav-link:hover {
+  background-color: #9d69e5;
+  color: white;
+  padding: 8px;
+  border-radius: 15px;
+  transition: 0s;
+}
+.right_item li {
+  margin-right: 34px;
+  font-weight: bold;
+}
+/* End Header */
