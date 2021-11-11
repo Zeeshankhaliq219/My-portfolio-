@@ -191,7 +191,7 @@ body {
   border-radius: 15px;
   font-size: 1.1rem;
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 320px) {
   .li_item {
     margin-left: 16px;
   }
